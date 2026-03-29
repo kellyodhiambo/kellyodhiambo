@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @makebelief
+- 👋 Hi, I’m @kellyodhiambo
 - 👀 I’m interested in IT trends
 - 🌱 I’m currently learning sofware engineering
 - 💞️ I’m looking to collaborate on any projects
