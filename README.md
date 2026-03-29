@@ -12,7 +12,7 @@
 - 🌱 Currently <b> on a module road map to a fullstack developer </b>
 - 🌱 status <b>Apprenticeship at zone01kisumu</b>
 - 👯 I’m looking to collaborate on Full Stack projects
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/makebelief/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/kellyodhiambo/)
 - 💬 Ask me about **golang and its frameworks and anying to do with dynamics of kenya's creative economy as a self taught graphics designer**
 
 # <div align="center">💻 My Tech Stack Journey 🚀</div>
