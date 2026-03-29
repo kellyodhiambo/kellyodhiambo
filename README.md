@@ -86,13 +86,13 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/makebelief">
+  <a href="https://github.com/kellyodhiambo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/shayo-victor-381370307?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUXOxutlOT1G0bExvHLpp2g%3D%3">
+  <a href="https://www.linkedin.com/in/kelly-odhiambo-8a96a2331/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:victorshayo92@gmail.com">
+  <a href="kellyoburuodhiambo@yahoo.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
