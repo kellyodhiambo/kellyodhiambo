@@ -8,7 +8,7 @@
 
 <img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />
 
-- 🔭 I'm a <b> senior software engineer </b> & <b>a graphic and motion designer </b>
+- 🔭 I'm a <b>Senior Software Engineer</b> & <b>Telecom and Messaging Engineer</b> (VoIP, SMPP/Kannel, Asterisk, and n8n automation) & <b>Graphic and Motion Designer</b>
 - 🌱 Focused on full-stack software engineering, backend systems, and AI workflow automation
 - 🌱 status <b>Apprenticeship at zone01kisumu</b>
 - 👯 I’m looking to collaborate on Full Stack projects
