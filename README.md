@@ -1,101 +1,147 @@
-<h1 align="center">Hi, I'm Kelly Odhiambo 👋</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<h1 align="center">Hi 👋, I'm Kelly Odhiambo</h1> 
+<h3 align="start"></h3>
 
-<p align="center">
-  <strong>Senior Software Engineer · Full-Stack Developer · VoIP & Contact Centre Integrations · AI Automation · Graphic & Motion Designer</strong>
-</p>
 
-<p align="center">
-  <a href="https://github.com/kellyodhiambo">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/kelly-odhiambo-8a96a2331/">LinkedIn</a> ·
-  <a href="mailto:kellyoburuodhiambo@yahoo.com">Email</a>
-</p>
+# 💫 About Me:
 
-## About me
+<img align="right" alt="procoder" src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" />
 
-I’m a senior software engineer and creative technologist who builds full-stack business software, contact-centre platforms, voice integrations, and workflow automations. I also work in graphic and motion design, and I’m knowledgeable about Kenya’s creative economy and its dynamics.
+- 🔭 I'm a <b> senior software engineer </b> & <b>a graphic and motion designer </b>
+- 🌱 Focused on full-stack software engineering, backend systems, and AI workflow automation
+- 🌱 status <b>Apprenticeship at zone01kisumu</b>
+- 👯 I’m looking to collaborate on Full Stack projects
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/kellyodhiambo/)
+- 💬 Ask me about **golang and its frameworks and anying to do with dynamics of kenya's creative economy as a self taught graphics designer**
+- 🛠️ Building full-stack business platforms with React, TypeScript, C#, ASP.NET Core, .NET 8, PostgreSQL, Entity Framework Core, and SignalR
+- ☎️ Contact-centre and VoIP engineering: Asterisk, AMI, SIP/PJSIP, IVR, dialplans, queues, browser calling, WebRTC, RTP, and SIP trunk integrations
+- ☁️ Cloud and delivery: AWS EC2, VPC, VPNs, security groups, Linux/Unix, Docker, Git, GitHub, and CI/CD
+- 🤖 Building n8n automations and AI agent workflows with APIs, LLM integrations, and webhooks
 
-My current work includes the Gamtel Business Cloud / Alchemy PBX platform: a multi-tenant contact-centre system integrating web applications, backend services, PostgreSQL, real-time features, AWS infrastructure, and Asterisk. I’m also building with n8n for AI agent workflows and business process automation.
+# <div align="center">💻 My Tech Stack Journey 🚀</div>
 
-I completed an apprenticeship at Zone01 Kisumu and enjoy collaborating on ambitious full-stack projects.
+<div align="center">
+  <img src="https://img.shields.io/badge/Developer-Full_Stack-blue?style=for-the-badge" alt="Full Stack Developer"/>
+  <img src="https://img.shields.io/badge/Learning_At-Zone01_Kisumu-orange?style=for-the-badge" alt="Zone01 Kisumu"/>
+</div>
 
-## Skills and experience
+<br>
 
-### Software engineering
+<div align="center">
 
-- Full-stack development with React, TypeScript, JavaScript, HTML, and CSS
-- Go and its frameworks
-- C#, ASP.NET Core, and .NET 8
-- REST APIs, SignalR, webhooks, and service integrations
-- PostgreSQL and Entity Framework Core
-- Multi-tenant SaaS architecture, company-level data isolation, and role-based access control
-- Responsive interfaces and customer-facing product workflows
+<div align="center">
 
-### VoIP, telephony, and contact centres
+## ⚡ Technology Stack ⚡
 
-- Asterisk administration and AMI integrations
-- SIP/PJSIP trunking, endpoint configuration, and call routing
-- IVRs, dialplans, extensions, ring groups, and queues
-- Browser calling and WebRTC integrations
-- SIP signaling, RTP/media, NAT, VPN, and network troubleshooting
-- Contact-centre agent workflows and voice platform integration
+</div>
 
-### Cloud, infrastructure, and delivery
-
-- AWS EC2, VPC networking, VPN connectivity, and security groups
-- Linux/Unix administration and Docker
-- Git, GitHub, and CI/CD deployment workflows
-- Production configuration, service health checks, and troubleshooting
-
-### AI and workflow automation
-
-- n8n workflow automation and API integrations
-- AI agent workflow design and LLM-connected automations
-- Webhooks and business process orchestration
-
-### Design and creative industries
-
-- Graphic design and motion design
-- UI implementation and visual communication
-- Knowledge of Kenya’s creative economy and its dynamics
-
-## Technologies and tools
-
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C sharp and .NET" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Asterisk-FCC624?style=for-the-badge&logo=asterisk&logoColor=black" alt="Asterisk" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux and Unix" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Unix-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Unix/Linux" />
+  <img src="https://img.shields.io/badge/XML-007396?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+  <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Asterisk-FCC624?style=for-the-badge&logo=asterisk&logoColor=black" alt="Asterisk" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  
+</div>
 
-**Everyday tools:** VS Code, GitHub, Firefox, and Microsoft tools.
+<br>
 
-## Current focus
+<div align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Firefox" />
+  <img src="https://img.shields.io/badge/Microsoft-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</div>
 
-- Building reliable, multi-tenant business communication and contact-centre software
-- Connecting voice systems and SIP trunks while keeping customer traffic isolated
-- Developing omnichannel customer-service workflows
-- Creating practical n8n automations and AI agent workflows
-- Continuing to explore Rust, advanced AI, and backend engineering
+<br>
 
-## GitHub activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kellyodhiambo&show_icons=true&theme=tokyonight" alt="Kelly's GitHub stats" />
-</p>
 
-## Connect with me
+## 📈 GitHub Stats & Activity 📈
 
-- GitHub: [@kellyodhiambo](https://github.com/kellyodhiambo)
-- LinkedIn: [Kelly Odhiambo](https://www.linkedin.com/in/kelly-odhiambo-8a96a2331/)
-- Email: [kellyoburuodhiambo@yahoo.com](mailto:kellyoburuodhiambo@yahoo.com)
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kellyodhiambo&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kellyodhiambo&theme=radical" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+
+## 🚀 Currently Learning 🚀
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Advanced_AI-9932CC?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/More_Back_End-3CB371?style=for-the-badge" alt="Back-end" />
+</div>
+
+<div align="center">
+
+## 📫 Connect With Me 📫
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/kellyodhiambo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/kelly-odhiambo-8a96a2331/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kellyoburuodhiambo@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <i>🌟 Generated from my learning journey at <a href="https://learn.zone01kisumu.ke">Zone01 Kisumu</a> 🌟</i>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kellyodhiambo&style=flat-square&color=blue" alt="Profile views" />
+</div>
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+<!-- ---------------------------------------3D Contributor------------------------------------------
+--------------------------------------------------------------------------------------------- -->
+
+<div align="center" >
+<h1> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/133582566/331987097-1ee5934a-27be-4502-a7bf-e6a8c78fe5a3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240702%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240702T170604Z&X-Amz-Expires=300&X-Amz-Signature=0e7b49fc7a322cb077dce50ed25ad73cacf85e0dbdcfe0cedcfa93a370fd805c&X-Amz-SignedHeaders=host&actor_id=100375390&key_id=0&repo_id=802760760" alt="Eyes" width="60" height="60" />CONTRIBUTIONS</h1>
+ </div>
+      
+  <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/mdazfar2/mdazfar2/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+
